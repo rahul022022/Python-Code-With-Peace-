@@ -2,6 +2,7 @@
 
 
 number = int(input("Enter a Number:- "))
+print(number)
 
 if number>0:
     print(f"This {number} Number is positive ")

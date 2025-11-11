@@ -1,4 +1,4 @@
-# Write a program that takes a number from the user and prints “Even” if it is even, otherwise “Odd”.
+# 3. Write a program that takes a number from the user and prints “Even” if it is even, otherwise “Odd”.
 
 number = int(input("Enter a Number:- "))
 
